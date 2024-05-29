@@ -1,0 +1,14 @@
+[
+  {
+    "sequence": "MVLSPADKTNVKAAW",
+    "name": "Hemoglobin subunit alpha",
+    "molecularWeight": 15145.4,
+    "reaction": "Oxygen transport"
+  },
+  {
+    "sequence": "MKAILVVLLYTFATANAD",
+    "name": "Cytochrome c oxidase subunit I",
+    "molecularWeight": 20000,
+    "reaction": "Electron transport"
+  }
+]
